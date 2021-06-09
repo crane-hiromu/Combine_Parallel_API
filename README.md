@@ -1,12 +1,14 @@
 
 ## Architecture
 
-<img width="1000" alt="141101fa-d1fa-fab2-998d-7796fe95cbc1" src="https://user-images.githubusercontent.com/24838521/121290043-eb5fe980-c920-11eb-96fb-b753f5eb2bd9.png">
-
-
 <div align="center">
 Based on MVP Architecture.
 </div>
+
+<br>
+
+<img width="1000" alt="141101fa-d1fa-fab2-998d-7796fe95cbc1" src="https://user-images.githubusercontent.com/24838521/121290043-eb5fe980-c920-11eb-96fb-b753f5eb2bd9.png">
+
 
 <br>
 
