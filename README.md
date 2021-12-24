@@ -15,7 +15,7 @@ Based on MVP Architecture.
 ## Description
 
 <div align="center">
-Make the individual APIs into one with ``Combine``.
+Make the individual APIs into one with `Combine`.
 </div>
 
 <br>
